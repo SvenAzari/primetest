@@ -41,7 +41,7 @@ def primetest ():
 
 #exit function
 def fuex ():
-  ex = float(input ("[1 (new calculation), 2 (exit)]: "))
+  ex = float(input ("[1 (new), 2 (exit)]: "))
   if ex == 1:
     clear ()
     primetest ()
