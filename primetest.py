@@ -1,5 +1,5 @@
 #In order to run this script, you need to have Python 3 installed.
-#Made by: DarkAtlas
+#Made by Sven Azari
 
 #import
 import math
