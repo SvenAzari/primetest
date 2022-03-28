@@ -1,5 +1,6 @@
 #In order to run this script, you need to have Python 3 installed.
 #Made by Sven Azari
+#http://www.github.com/svenazari
 
 #import
 import math
